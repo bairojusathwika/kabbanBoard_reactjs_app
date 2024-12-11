@@ -100,19 +100,3 @@ Install dependencies with:
 npm install react-dnd react-dnd-html5-backend
 ```
 
-## Future Enhancements
-- Add task priority and due dates.
-- Include user assignments for tasks.
-- Implement persistence using a backend API or localStorage.
-- Add animations for smoother transitions.
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it for your projects.
-
-## Contributing
-Contributions are welcome! Please submit a pull request or raise an issue to discuss your ideas.
-
----
-
-**Happy Task Managing!**
-
